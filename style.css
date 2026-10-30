@@ -1,0 +1,38 @@
+
+body {
+    background-color: #c92394;
+    font-family: Arial, sans-serif;
+}
+
+/* Überschrift */
+h1 {
+    font-family: Futura, sans-serif;
+    font-weight: 900;
+    color: #fabdff;
+    text-align: center;
+    font-size: 36px;
+
+    
+}
+
+/* Absatz */
+p {
+    color: #341337;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+
+    background-color: #ffeefe;
+    border: 1px solid #cf61bc;
+    padding: 20px;
+    margin: 20px 20px;
+    border-radius: 0px;
+}
+    img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #A3B899;
+    border-radius: 12px;
+}
